@@ -26,8 +26,7 @@
     1. Use the this keyword to assign each player to a team with an onclick. Assign them to either Blue Team or Red Team.
     1. Display the two teams in a new list in the DOM with appropriate titles.
     1. Create 3 tests for your application.
-    * unnumbered
-15454. ;oisdfj;diosafaioghi
+
 
 ## Extended Practice Bonus!!
 
