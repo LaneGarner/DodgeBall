@@ -1,5 +1,9 @@
 # DodgeBall
 
+## Code Plan
+
+
+
 ## Specs Checklist
 1. 20pts - Code Plan - Include this in a README.md file in your folder with comment in your code.
 1. 20pts - Can add People to Players - When clicked the people are added to the Players column and removed from the People list while getting new values of a player added to them.
@@ -22,6 +26,7 @@
     1. Use the this keyword to assign each player to a team with an onclick. Assign them to either Blue Team or Red Team.
     1. Display the two teams in a new list in the DOM with appropriate titles.
     1. Create 3 tests for your application.
+1. ;oisdfj;diosafaioghi
 
 ## Extended Practice Bonus!!
 
